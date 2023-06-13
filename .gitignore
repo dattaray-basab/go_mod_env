@@ -28,5 +28,5 @@
 ```
 
 # App specific
-go_mod
-go_mod_app
+go_mod/
+go_mod_app/
