@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "go_mod_app"
+		},
+		{
+			"path": "go_mod"
+		}
+	],
+	"settings": {}
+}
